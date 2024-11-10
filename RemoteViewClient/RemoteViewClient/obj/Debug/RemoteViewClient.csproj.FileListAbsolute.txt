@@ -1,0 +1,14 @@
+C:\Users\eness\source\repos\RemoteViewClient\RemoteViewClient\bin\Debug\RemoteViewClient.exe.config
+C:\Users\eness\source\repos\RemoteViewClient\RemoteViewClient\bin\Debug\RemoteViewClient.exe
+C:\Users\eness\source\repos\RemoteViewClient\RemoteViewClient\bin\Debug\RemoteViewClient.pdb
+C:\Users\eness\source\repos\RemoteViewClient\RemoteViewClient\obj\Debug\RemoteViewClient.csproj.AssemblyReference.cache
+C:\Users\eness\source\repos\RemoteViewClient\RemoteViewClient\obj\Debug\RemoteViewClient.csproj.CoreCompileInputs.cache
+C:\Users\eness\source\repos\RemoteViewClient\RemoteViewClient\obj\Debug\RemoteViewClient.exe
+C:\Users\eness\source\repos\RemoteViewClient\RemoteViewClient\obj\Debug\RemoteViewClient.pdb
+C:\Users\eness\Desktop\AppSrc\RemoteViewApp\RemoteViewClient\RemoteViewClient\bin\Debug\RemoteViewClient.exe.config
+C:\Users\eness\Desktop\AppSrc\RemoteViewApp\RemoteViewClient\RemoteViewClient\bin\Debug\RemoteViewClient.exe
+C:\Users\eness\Desktop\AppSrc\RemoteViewApp\RemoteViewClient\RemoteViewClient\bin\Debug\RemoteViewClient.pdb
+C:\Users\eness\Desktop\AppSrc\RemoteViewApp\RemoteViewClient\RemoteViewClient\obj\Debug\RemoteViewClient.csproj.AssemblyReference.cache
+C:\Users\eness\Desktop\AppSrc\RemoteViewApp\RemoteViewClient\RemoteViewClient\obj\Debug\RemoteViewClient.csproj.CoreCompileInputs.cache
+C:\Users\eness\Desktop\AppSrc\RemoteViewApp\RemoteViewClient\RemoteViewClient\obj\Debug\RemoteViewClient.exe
+C:\Users\eness\Desktop\AppSrc\RemoteViewApp\RemoteViewClient\RemoteViewClient\obj\Debug\RemoteViewClient.pdb
